@@ -1,6 +1,6 @@
 # EmailIdGenerator
 
-To create an Email Id Generator (Codility Challange)
+To create an Email Id Generator (Codility challenge)
 
 Two string is passed String S = "John Doe; Mary Jane; John Doe Paker; Mary Jane Watson-Parker; Mary Jane Parker; John Evan                                  Doe; John Ing Doe; Mary Kane Parker";
 		     String C = "techm infosys wirecard check24 tipico infosys infosys tipico";
